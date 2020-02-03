@@ -4,4 +4,4 @@ This was an analysis conducted for the study entitled "Associated factors with s
 
 ## codebook
 Find out the code here:
-- Data analysis: [_da_writing and publication_v1_](https://github.com/culquichicon/2016-Peruvian-Prison-Census/blob/master/da_presos_v8.do)
+- Data analysis: [_da_writing and publication_v1_](https://github.com/culquichicon/Scientific_writing/blob/master/da_writing%20and%20publication_v1.do)
