@@ -1,6 +1,6 @@
 # Scientific_writing
 ## overview
-This is the analysis conducted for the study entitled "Associated factors with scientific publication during medical training: evidence from 40 medical schools surveyed in Latin America and the Caribbean".
+This is the analysis conducted for the study entitled "Associated factors with scientific publication during medical training: evidence from 40 medical schools surveyed in Latin America".
 
 ## codebook
 Find out the code here:
