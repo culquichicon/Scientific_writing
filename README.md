@@ -1,4 +1,5 @@
-# Scientific_writing
+# Associated factors with reaching a scientific publication during medical training: evidence from 40 medical schools surveyed in Latin America.
+
 ## overview
 This is the analysis conducted for the study entitled "Associated factors with scientific publication during medical training: evidence from 40 medical schools surveyed in Latin America".
 
