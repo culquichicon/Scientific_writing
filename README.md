@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/188761420.svg)](https://zenodo.org/badge/latestdoi/188761420)
+
 # Associated factors with reaching a scientific publication during medical training: evidence from 40 medical schools surveyed in Latin America.
 
 ## overview
